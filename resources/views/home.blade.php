@@ -9,6 +9,7 @@
                     <div>
                         <div class="font-semibold"> {{ $chirp->user ? $chirp->user->name : 'Anonymous' }}</div>
                         <div class="mt-1">{{ $chirp->message }}</div>
+                        <div class="mt-1">Category: {{ $chirp->category }}</div>
                         <div class="text-sm text-gray-500 mt-2">
                             {{ $chirp->created_at->diffForHumans() }}
                         </div>
