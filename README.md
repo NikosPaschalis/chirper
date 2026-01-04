@@ -2,8 +2,6 @@
 
 I'm learning Laravel via the "Getting Started with Laravel" bootcamp while building Chirper, a small Twitter-like app. This README summarizes the 13 lessons and what I learned from each.
 
-- View code: https://github.com/your-username/chirper
-- Course demo: https://your-demo-url.example.com
 
 ## Course overview
 13 lessons · ~2 hr
